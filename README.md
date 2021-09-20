@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning java and OpenGL.
 - 💞️ I’m looking to collaborate on projects using java and OpenGl.
-- 📫 How to reach me ...
+- 📫 you can reach me by mail durgesh65178@gmail.com. 
 
 <!---
 DurgeshChouksey/DurgeshChouksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
