@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm a Computer Science student
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning java and OpenGL.
-- 💞️ I’m looking to collaborate on projects using java and OpenGl.
+- 💞️ I’m looking to collaborate on projects using java.
 - 📫 you can reach me by mail durgesh65178@gmail.com. 
 
 <!---
